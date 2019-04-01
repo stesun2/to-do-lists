@@ -1,10 +1,10 @@
-# To Do 
+# To-Do 
 
 ## Release 0: Setup
-We are going to create a CRUD app to create To Do lists. Start by setting up a new Django project. We will be deploying this project to Heroku so you'll want to install `psycopg2` and set up your project with a Postgresql database. 
+We are going to create a CRUD app to create To-Do lists. Start by setting up a new Django project. We will be deploying this project to Heroku so you'll want to install `psycopg2` and set up your project with a Postgresql database. 
 
 ## Release 1: Models 
-Once you're project is set up, create a new app for To Do lists and set up your models. 
+Once you're project is set up, create a new app for To-Do lists and set up your models. 
 - A User should be able to create multiple lists. 
 - Each list can have many tasks associated with it. 
 - Each task belongs to one List. 
@@ -14,7 +14,7 @@ Once you're project is set up, create a new app for To Do lists and set up your 
 - Each Task should have a due date. 
 
 ## Release 2: Front End 
-Start a new react app to act as the front end for your To Do List. 
+Start a new react app to act as the front end for your To-Do List. 
 - After a User logs in, they should see all of their Lists that still have incomplete tasks. 
 - Clicking on a list will take you to a List page that displays all the tasks for that list. 
 - From here a user should be able to: 
@@ -23,7 +23,7 @@ Start a new react app to act as the front end for your To Do List.
     - mark a task as complete
 
 ## Release 3: Additional Functionality 
-Once you have the basic CRUD functionality working, add **at least one** of the following features. You'll have to do your own research to figure out how to impliment some of these. Don't worry, spending hours and hours reading blogs and documentation is a huge part of programming. If you get frustrated, you're doing it right. 
+Once you have the basic CRUD functionality working, add **at least one** of the following features. You'll have to-do your own research to figure out how to impliment some of these. Don't worry, spending hours and hours reading blogs and documentation is a huge part of programming. If you get frustrated, you're doing it right. 
 
 ### Easy-ish
 - Add a feature for users to view all their completed Lists. 
