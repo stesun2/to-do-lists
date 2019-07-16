@@ -15,7 +15,7 @@ Once you're project is set up, create a new app for To-Do lists and set up your 
 
 ## Release 2: Front End 
 Start a new react app to act as the front end for your To-Do List. 
-- After a User logs in, they should see all of their Lists that still have incomplete tasks. 
+- On the main page, a user should see all of Lists that still have incomplete tasks. 
 - Clicking on a list will take you to a List page that displays all the tasks for that list. 
 - From here a user should be able to: 
     - create new tasks 
